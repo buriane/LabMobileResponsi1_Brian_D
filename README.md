@@ -1,16 +1,19 @@
-# responsi
+# Responsi Praktikum Pemrograman Mobile
 
-A new Flutter project.
+Nama: Brian Cahya Purnama
 
-## Getting Started
+NIM: H1D022009
 
-This project is a starting point for a Flutter application.
+Shift Lama: C
 
-A few resources to get you started if this is your first Flutter project:
+Shift Baru: D
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Ketentuan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/ff422c59-b2b1-42d4-80cd-781a9805f6ea)
+
+## Demo Aplikasi
+![Demo GIF](assets/demo.gif)
+
+## Penjelasan
+![PDF](assets/H1D022009_BRIANCAHYA_PRAKTIKUMPEMMOBD_RESPONSI1.pdf)
