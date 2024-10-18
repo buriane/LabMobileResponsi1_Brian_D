@@ -16,4 +16,4 @@ Shift Baru: D
 ![Demo GIF](assets/demo.gif)
 
 ## Penjelasan
-![PDF](assets/H1D022009_BRIANCAHYA_PRAKTIKUMPEMMOBD_RESPONSI1.pdf)
+![Klik di sini](assets/H1D022009_BRIANCAHYA_PRAKTIKUMPEMMOBD_RESPONSI1.pdf)
