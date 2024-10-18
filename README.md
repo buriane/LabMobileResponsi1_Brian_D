@@ -9,8 +9,7 @@ Shift Lama: C
 Shift Baru: D
 
 ## Ketentuan
-
-![image](https://github.com/user-attachments/assets/ff422c59-b2b1-42d4-80cd-781a9805f6ea)
+<img src="https://github.com/user-attachments/assets/ff422c59-b2b1-42d4-80cd-781a9805f6ea" alt="image" width="400"/>
 
 ## Demo Aplikasi
 ![Demo GIF](assets/demo.gif)
